@@ -1,4 +1,4 @@
 Chapter
 =====
 
-BaseKit Enom Foresake/RIP Template
+BaseKit Enom Foresake/RIP Theme
