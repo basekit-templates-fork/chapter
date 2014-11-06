@@ -1,4 +1,4 @@
-Atlantic
+Chapter
 =====
 
-BaseKit Standard Template
+BaseKit Enom Foresake/RIP Template
